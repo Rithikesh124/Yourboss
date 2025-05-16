@@ -1,0 +1,14 @@
+{
+  "name": "stake-backend",
+  "version": "1.0.0",
+  "main": "stake_backend.js",
+  "scripts": {
+    "start": "node stake_backend.js"
+  },
+  "dependencies": {
+    "axios": "^1.4.0",
+    "body-parser": "^1.20.2",
+    "cors": "^2.8.5",
+    "express": "^4.18.2"
+  }
+}
